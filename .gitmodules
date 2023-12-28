@@ -1,7 +1,0 @@
-[submodule "sources/meta-openembedded"] 
-  path = sources/meta-openembedded
-  url = https://github.com/openembedded/meta-openembedded/tree/kirkstone
-  
-[submodule "sources/poky"] 
-  path = sources/poky
-  url = https://github.com/yoctoproject/poky/tree/kirkstone-4.0.14
