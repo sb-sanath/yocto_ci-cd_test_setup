@@ -5,5 +5,5 @@
 	path = sources/poky
 	url = https://github.com/yoctoproject/poky.git
 [submodule "meta-jsr"]
-	path = meta-jsr
+	path = sources/meta-jsr
 	url = git@github.com:sb-sanath/meta-jsr.git
