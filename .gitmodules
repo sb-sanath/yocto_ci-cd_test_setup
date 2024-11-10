@@ -4,6 +4,6 @@
 [submodule "sources/poky"]
 	path = sources/poky
 	url = https://github.com/yoctoproject/poky.git
-[submodule "sources/meta-jsr"]
-	path = sources/jsr
-	url = git@github.com:sb-sanath/LDD-yocto.git
+[submodule "meta-jsr"]
+	path = meta-jsr
+	url = git@github.com:sb-sanath/meta-jsr.git
