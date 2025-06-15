@@ -7,3 +7,6 @@
 [submodule "sources/meta-jsr"]
 	path = sources/meta-jsr
 	url = git@github.com:sb-sanath/meta-jsr.git
+[submodule "sources/modules"]
+	path = sources/modules
+	url = git@github.com:sb-sanath/modules.git
