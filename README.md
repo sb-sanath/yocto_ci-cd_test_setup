@@ -21,6 +21,6 @@ Make sure to install all the required packaes for a standard yocto build (https:
 
 
 #TODO:
-1. Automate the loale update in oe-init-build-env-* scripts.
+1. Automate the locale update in oe-init-build-env-* scripts.
 2. Jenkins pipeline (or workflow) to trigger a build.
 
